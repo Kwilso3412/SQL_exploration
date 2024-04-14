@@ -2,7 +2,7 @@
 
 This is the colmination of various SQL projects in my Data Gathering and Warehousing class. It starts with cleaning dirty data and then running various queries. I have only included the most interesting queries. 
 
-# Video Game Backlogged Exploration
+## Video Game Backlogged Exploration
 The dataset used for this repository cam from the open source platform Kaggle. There are no regulatory restrictions because it is an open source platorm and anyone can use the data. There were no variable options for this dataset. The user that provided the [data from the site backlogged](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023).
 The user collected the data by web scrapping from the game log/recording site Backloggedused. He used a simple data scrapping tool Beautiful Soup to extract teh data. The data is validated through multiple people on Kaggle using the data to complete their own analysis of the data. However, the data is expected to never be updated.  
 
